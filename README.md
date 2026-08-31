@@ -5,7 +5,7 @@
 
   <br />
 
-  <!-- DYNAMIC PURPLE & BLUE TYPING TEXT ANIMATION (FIXED WIDTH & NO TEXT CUTOFF) -->
+  <!-- DYNAMIC PURPLE & BLUE TYPING TEXT ANIMATION -->
   <a href="https://github.com/OjusAnilNaik">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Computer+Science+Student+%26+Software+Engineer;Building+Scalable+Full-Stack+Web+Applications;Passionate+about+Code,+AI+%26+Machine+Learning;Turning+ideas+into+high-performance+code" alt="Typing SVG Animation" />
   </a>
@@ -35,13 +35,24 @@
 
 ## ⚡ About Me
 
-```sys
-> WHOAMI
-Hi! I'm Ojus — a Computer Science Student passionate about building modern web applications, exploring intelligent systems, building ML models and crafting elegant solutions to complex problems.
-```
+<div align="left">
+  <!-- SLEEK ANIMATED TERMINAL COMMAND HEADER -->
+  <a href="https://github.com/OjusAnilNaik">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D2FF&center=false&vCenter=true&repeat=true&width=450&height=35&lines=%3E_whoami+--user+Ojus" alt="whoami command" />
+  </a>
+</div>
+
+> ⚡ **`usr@Ojus:~$`** **`whoami --verbose`**  
+> 
+> 👤 **Name:** Ojus  
+> 🎓 **Role:** Computer Science Student & Aspiring Software Engineer  
+> 💡 **Passions:** Web Applications • Intelligent Systems • Machine Learning Models  
+> 🚀 **Mission:** Building modern web platforms and crafting elegant, high-performance solutions to complex problems.
+
+<br/>
 
 - 🎓 **Education:** Pursuing Computer Science & Engineering
-- 💻 **Currently Working On:** Full-stack web platforms & modern algorithm design
+- 💻 **Currently Working On:** Full-stack web platforms & ML model architectures
 - 🧠 **Currently Learning:** Data science, Artificial intelligence and Machine learning
 - 💬 **Ask Me About:** Web Development, Python, JavaScript, C++, Data Structures
 - ⚡ **Fun Fact:** When I'm not coding, I'm exploring open-source projects, gaming, or customizing my developer environment!
@@ -107,7 +118,7 @@ Hi! I'm Ojus — a Computer Science Student passionate about building modern web
 ## 👾 Sleek Neon Contribution Snake
 
 <div align="center">
-  <!-- SLEEK PURPLE NEON SNAKE ANIMATION (Renders live after running snake action in repository OjusAnilNaik/OjusAnilNaik) -->
+  <!-- SLEEK PURPLE NEON SNAKE ANIMATION -->
   <a href="https://github.com/OjusAnilNaik">
     <img src="https://raw.githubusercontent.com/OjusAnilNaik/OjusAnilNaik/output/github-user-contribution-grid-snake-dark.svg" alt="Sleek Purple Neon Snake Animation" />
   </a>
