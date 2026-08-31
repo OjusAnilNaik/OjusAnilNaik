@@ -5,9 +5,9 @@
 
   <br />
 
-  <!-- DYNAMIC PURPLE & BLUE TYPING TEXT ANIMATION -->
+  <!-- DYNAMIC PURPLE & BLUE TYPING TEXT ANIMATION (FIXED WIDTH & NO TEXT CUTOFF) -->
   <a href="https://github.com/OjusAnilNaik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Computer+Science+Student+%26+Software+Engineer;Building+Scalable+Full-Stack+Web+Applications;Passionate+about+Code,+AI+%26+Cloud;Turning+ideas+into+high-performance+code" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Computer+Science+Student+%26+Software+Engineer;Building+Scalable+Full-Stack+Web+Applications;Passionate+about+Code,+AI+%26+Machine+Learning;Turning+ideas+into+high-performance+code" alt="Typing SVG Animation" />
   </a>
 
   <br />
@@ -37,12 +37,12 @@
 
 ```sys
 > WHOAMI
-Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about building modern web applications, exploring intelligent systems, and crafting elegant solutions to complex problems.
+Hi! I'm Ojus — a Computer Science Student passionate about building modern web applications, exploring intelligent systems, building ML models and crafting elegant solutions to complex problems.
 ```
 
 - 🎓 **Education:** Pursuing Computer Science & Engineering
 - 💻 **Currently Working On:** Full-stack web platforms & modern algorithm design
-- 🧠 **Currently Learning:** Distributed Systems, Cloud Architecture & Next.js / TypeScript
+- 🧠 **Currently Learning:** Data science, Artificial intelligence and Machine learning
 - 💬 **Ask Me About:** Web Development, Python, JavaScript, C++, Data Structures
 - ⚡ **Fun Fact:** When I'm not coding, I'm exploring open-source projects, gaming, or customizing my developer environment!
 
@@ -75,28 +75,13 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
 <hr />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OjusAnilNaik&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Ojus GitHub Trophies" />
-  </a>
-</div>
-
-<hr />
-
-## 📊 GitHub Analytics & Stats
+## 📊 GitHub Analytics & Profile Summary
 
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=OjusAnilNaik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ojus GitHub Stats" />
-  </a>
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusAnilNaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Profile Details Card (100% Working Verified API) -->
+  <a href="https://github.com/OjusAnilNaik">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OjusAnilNaik&theme=tokyonight" alt="Ojus Profile Summary" />
   </a>
 
 </div>
@@ -105,20 +90,27 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
 <div align="center">
 
-  <!-- Contribution Streak Stats -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OjusAnilNaik&theme=tokyonight&hide_border=true" alt="Ojus GitHub Streak Stats" />
+  <!-- Top Languages Distribution Card -->
+  <a href="https://github.com/OjusAnilNaik">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OjusAnilNaik&theme=tokyonight" alt="Repos Per Language" />
+  </a>
+
+  <!-- Contribution Streak Stats (Demolab Verified API) -->
+  <a href="https://github.com/OjusAnilNaik">
+    <img src="https://streak-stats.demolab.com/?user=OjusAnilNaik&theme=tokyonight&hide_border=true" alt="Ojus Streak Stats" />
   </a>
 
 </div>
 
 <hr />
 
-## 👾 Contribution Snake Animation
+## 👾 Sleek Neon Contribution Snake
 
 <div align="center">
-  <!-- ANIMATED CONTRIBUTIONS SNAKE GRAPH (Will render live after pushing to repository OjusAnilNaik/OjusAnilNaik and running the action) -->
-  <img src="https://raw.githubusercontent.com/OjusAnilNaik/OjusAnilNaik/output/github-user-contribution-grid-snake.svg" alt="Ojus Contribution Snake Animation" />
+  <!-- SLEEK PURPLE NEON SNAKE ANIMATION (Renders live after running snake action in repository OjusAnilNaik/OjusAnilNaik) -->
+  <a href="https://github.com/OjusAnilNaik">
+    <img src="https://raw.githubusercontent.com/OjusAnilNaik/OjusAnilNaik/output/github-user-contribution-grid-snake-dark.svg" alt="Sleek Purple Neon Snake Animation" />
+  </a>
 </div>
 
 <hr />
@@ -145,7 +137,7 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=480&lines=Thanks+for+visiting+Ojus's+profile!;Star+my+repos+if+you+find+them+helpful!)](https://github.com/OjusAnilNaik)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+Ojus's+profile!;Star+my+repos+if+you+find+them+helpful!)](https://github.com/OjusAnilNaik)
 
   <br/><br/>
 

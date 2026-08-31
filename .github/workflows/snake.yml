@@ -22,17 +22,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # generates a game of snake from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # generates a game of snake from a github user contributions graph with custom neon purple palette
       - name: generate github-user-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-user-contribution-grid-snake.svg
-            dist/github-user-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-user-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#9D4EDD&color_dots=#161b22,#2e1065,#581c87,#7e22ce,#c084fc
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # push the content of dist to the output branch
       - name: push github-user-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
