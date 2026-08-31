@@ -7,7 +7,7 @@
 
   <!-- DYNAMIC PURPLE & BLUE TYPING TEXT ANIMATION -->
   <a href="https://github.com/OjusAnilNaik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Computer+Science+Student+%26+Software+Engineer;Building+Scalable+Full-Stack+Web+Applications;Passionate+about+Code,+AI+%26+Cloud;Turning+ideas+into+high-performance+code+✨" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Computer+Science+Student+%26+Software+Engineer;Building+Scalable+Full-Stack+Web+Applications;Passionate+about+Code,+AI+%26+Cloud;Turning+ideas+into+high-performance+code" alt="Typing SVG Animation" />
   </a>
 
   <br />
@@ -21,7 +21,6 @@
   <!-- SOCIAL BADGES -->
   <a href="https://linkedin.com/in/ojus-naik-810055332">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   </a>
   <a href="mailto:ojusnaik26@gmail.com">
     <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -80,7 +79,7 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ojusn&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Ojus GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=OjusAnilNaik&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Ojus GitHub Trophies" />
   </a>
 </div>
 
@@ -92,12 +91,12 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
   <!-- Overall GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojusn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ojus GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=OjusAnilNaik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ojus GitHub Stats" />
   </a>
   
   <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojusn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjusAnilNaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 
 </div>
@@ -108,7 +107,7 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
   <!-- Contribution Streak Stats -->
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojusn&theme=tokyonight&hide_border=true" alt="Ojus GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OjusAnilNaik&theme=tokyonight&hide_border=true" alt="Ojus GitHub Streak Stats" />
   </a>
 
 </div>
@@ -118,8 +117,8 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 ## 👾 Contribution Snake Animation
 
 <div align="center">
-  <!-- ANIMATED CONTRIBUTIONS SNAKE GRAPH -->
-  <img src="https://raw.githubusercontent.com/ojusn/ojusn/output/github-user-contribution-grid-snake.svg" alt="Ojus Contribution Snake Animation" />
+  <!-- ANIMATED CONTRIBUTIONS SNAKE GRAPH (Will render live after pushing to repository OjusAnilNaik/OjusAnilNaik and running the action) -->
+  <img src="https://raw.githubusercontent.com/OjusAnilNaik/OjusAnilNaik/output/github-user-contribution-grid-snake.svg" alt="Ojus Contribution Snake Animation" />
 </div>
 
 <hr />
@@ -130,9 +129,9 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Full-Stack Portal** | Modern web application with authentication, real-time dashboard, and REST API. | `React` `Node.js` `MongoDB` | [Code](https://github.com/ojusn) |
-| 🤖 **AI / ML Pipeline** | Automation script and data processing pipeline for intelligent analytics. | `Python` `FastAPI` `PyTorch` | [Code](https://github.com/ojusn) |
-| 📱 **UI Component Kit** | Reusable, responsive component library built for modern web apps. | `Next.js` `TailwindCSS` `TypeScript` | [Code](https://github.com/ojusn) |
+| 🌐 **Full-Stack Portal** | Modern web application with authentication, real-time dashboard, and REST API. | `React` `Node.js` `MongoDB` | [Code](https://github.com/OjusAnilNaik) |
+| 🤖 **AI / ML Pipeline** | Automation script and data processing pipeline for intelligent analytics. | `Python` `FastAPI` `PyTorch` | [Code](https://github.com/OjusAnilNaik) |
+| 📱 **UI Component Kit** | Reusable, responsive component library built for modern web apps. | `Next.js` `TailwindCSS` `TypeScript` | [Code](https://github.com/OjusAnilNaik) |
 
 </div>
 
@@ -146,7 +145,7 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=480&lines=Thanks+for+visiting+Ojus's+profile!+✨;Star+%E2%AD%90+my+repos+if+you+find+them+helpful!)](https://github.com/ojusn)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=480&lines=Thanks+for+visiting+Ojus's+profile!;Star+my+repos+if+you+find+them+helpful!)](https://github.com/OjusAnilNaik)
 
   <br/><br/>
 
