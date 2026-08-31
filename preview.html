@@ -1,3 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ojus - GitHub Profile README Preview (Purple & Dark Blue)</title>
+  <!-- GitHub Markdown CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown-dark.min.css">
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    .preview-header {
+      max-width: 890px;
+      margin: 0 auto 20px auto;
+      padding: 15px 20px;
+      background: rgba(22, 27, 34, 0.8);
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .preview-header h2 {
+      margin: 0;
+      font-size: 18px;
+      color: #9d4edd;
+    }
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 890px;
+      margin: 0 auto;
+      padding: 45px;
+      background-color: #0d1117;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    }
+    summary {
+      cursor: pointer;
+      color: #9d4edd;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+  <div class="preview-header">
+    <h2>✨ GitHub Profile README Preview — Purple & Dark Blue Edition</h2>
+    <span style="font-size: 13px; color: #8b949e;">Rendering Ojus's README</span>
+  </div>
+
+  <article id="content" class="markdown-body"></article>
+
+  <!-- EMBEDDED RAW MARKDOWN CONTENT -->
+  <script id="readme-markdown" type="text/plain">
 <div align="center">
 
   <!-- COOL ANIMATED WAVE HEADER BANNER (PURPLE & DARK BLUE COMBO) -->
@@ -6,7 +67,7 @@
   <br />
 
   <!-- DYNAMIC PURPLE & BLUE TYPING TEXT ANIMATION -->
-  <a href="https://github.com/OjusAnilNaik">
+  <a href="https://github.com/ojusn">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Computer+Science+Student+%26+Software+Engineer;Building+Scalable+Full-Stack+Web+Applications;Passionate+about+Code,+AI+%26+Cloud;Turning+ideas+into+high-performance+code+✨" alt="Typing SVG Animation" />
   </a>
 
@@ -19,14 +80,16 @@
   <br/><br/>
 
   <!-- SOCIAL BADGES -->
-  <a href="https://linkedin.com/in/ojus-naik-810055332">
+  <a href="https://linkedin.com/in/ojus">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/ojus">
+    <img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
-  <a href="mailto:ojusnaik26@gmail.com">
+  <a href="mailto:ojus@example.com">
     <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/OjusAnilNaik">
+  <a href="https://github.com/ojusn">
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 
@@ -68,7 +131,7 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `C++` `JavaScript` `TypeScript` `Java` `C` `SQL` |
-| **Frontend** | `React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3` |
+| **Frontend** | `React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3` `Redux` |
 | **Backend & Databases** | `Node.js` `Express.js` `REST APIs` `PostgreSQL` `MongoDB` `MySQL` |
 | **Tools & Platforms** | `Git` `GitHub` `Docker` `VS Code` `Linux` `Postman` `Vercel` |
 
@@ -154,3 +217,13 @@ Hi! I'm Ojus — a Computer Science Student & Software Engineer passionate about
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:0D1B2A&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+  </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const markdownText = document.getElementById('readme-markdown').textContent;
+      document.getElementById('content').innerHTML = marked.parse(markdownText);
+    });
+  </script>
+</body>
+</html>
